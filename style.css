@@ -1,0 +1,13 @@
+/* h1{ 
+    color:rgb(255, 214, 197);
+    
+} */
+
+h1, p{
+    background-color: #ff8575;
+    color: white;
+}
+
+ul{
+    background-color: rgb(175, 255, 228);
+}
